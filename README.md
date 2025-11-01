@@ -84,6 +84,83 @@ It may include buttons, forms, search bars, or dropdowns, with notes on their in
 ### In Summary
 Each element in a wireframe — **layout, navigation, content, and functionality** — works together to build a product that’s intuitive, efficient, and user-friendly.  
 By planning these details ear
+---
+
+## Types of Wireframes
+
+Wireframes can vary in their level of detail and purpose depending on the stage of the design process.  
+The two main types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+---
+
+###  Low-Fidelity Wireframes
+
+**Low-Fidelity (Lo-Fi)** wireframes are basic sketches or simple digital outlines that focus on **layout and structure**, not on colors or detailed design.  
+They are quick to create and ideal for early brainstorming and collaboration sessions.
+
+**Key characteristics:**
+- Black-and-white or grayscale  
+- Simple shapes and placeholders (boxes for images, lines for text)  
+- No branding, icons, or real content  
+- Emphasis on user flow and screen hierarchy  
+
+**When to use:**
+- During the **initial ideation phase** of the design process  
+- When exploring multiple layout options quickly  
+- For early feedback from stakeholders before visual design begins  
+
+**Example:**
+Imagine a hand-drawn sketch or a minimal Figma layout showing where the header, search bar, and booking cards go, but without colors, fonts, or icons.
+*Lo-Fi wireframes help teams focus on structure before getting distracted by visuals.*
+
+---
+
+### High-Fidelity Wireframes
+
+**High-Fidelity (Hi-Fi)** wireframes are more detailed and closely resemble the final product.  
+They include **real text, images, icons, spacing, and component alignment**, and sometimes even basic interactivity.
+
+**Key characteristics:**
+- Detailed layout with accurate spacing and alignment  
+- Real or representative content and UI components  
+- Visual hierarchy and typography included  
+- Can be used for usability testing or early prototyping  
+
+**When to use:**
+- During the **later stages of the design process**, once the structure is finalized  
+- To present to clients or developers before full visual design and coding  
+- For testing user flows and validating design decisions  
+
+**Example:**
+A Figma screen showing actual room listings, filters, buttons, and text — with layout precision and consistent design patterns.
+*Hi-Fi wireframes communicate the final look and feel before development.*
+
+---
+
+## 🏡 Wireframe Type in the Project Airbnb Link
+
+In the provided design link:  
+👉 [Project Airbnb (Figma)](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=wqY6F9oKmK9f9Bec-0)
+
+The wireframes showcased are **High-Fidelity Wireframes**.
+
+### Here’s Why:
+- The designs include **realistic interface components** like images, text, icons, and detailed layouts.  
+- The overall structure looks **polished and precise**, showing how the final interface might appear.  
+- These screens demonstrate **interaction flows and page relationships**, beyond just static structure.  
+
+### Conclusion:
+> The *Project Airbnb* wireframes represent **high-fidelity wireframes**, used to refine and validate the user experience and visual design before full development begins.
+
+---
+
+**Summary**
+| Type | Level of Detail | Used When | Purpose |
+|------|-----------------|------------|----------|
+| **Low-Fidelity** | Simple sketches, grayscale, placeholders | Early in design | Explore ideas, layout, and flow |
+| **High-Fidelity** | Detailed layout, realistic content, interactive | Later in design | Validate design and communicate visuals |
+
+---
 
 Wireframes provide a **clear, functional representation** of a product’s structure.  
 They ensure that design decisions are **intentional, user-centered, and efficient**, making them an essential tool in the product design process.
