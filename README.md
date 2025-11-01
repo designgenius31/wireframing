@@ -164,3 +164,64 @@ The wireframes showcased are **High-Fidelity Wireframes**.
 
 Wireframes provide a **clear, functional representation** of a product’s structure.  
 They ensure that design decisions are **intentional, user-centered, and efficient**, making them an essential tool in the product design process.
+
+---
+
+##  Popular Wireframing Tools
+
+Wireframing can be done using a variety of tools — from quick sketching apps to professional design platforms.  
+The right tool depends on your workflow, team collaboration needs, and the fidelity level of your wireframes.
+
+Here are some of the most commonly used wireframing tools in the design industry:
+
+### 1. **Figma** *(Highly Recommended)*  
+**Figma** is one of the most popular cloud-based design tools for creating wireframes, prototypes, and full UI designs.  
+It’s loved by designers and developers alike for its **collaboration features**, **ease of use**, and **powerful design capabilities**.
+
+**Key Features:**
+-  **Cloud-Based Collaboration:** Multiple designers can work on the same file in real time — perfect for team projects.  
+-  **Component Reuse:** Create and reuse components for consistent layouts.  
+- **Prototyping:** Turn wireframes into interactive prototypes without leaving the app.  
+- **Cross-Platform Access:** Works directly in the browser or via the Figma desktop app.  
+-  **Comments and Feedback:** Stakeholders can leave comments directly on designs for faster iteration.
+
+**Why Figma is Ideal for Wireframing:**
+- Simple enough for **low-fidelity wireframes** using boxes and placeholders.  
+- Advanced enough for **high-fidelity wireframes** with realistic components and interactions.  
+- Seamlessly integrates into the design workflow, from **wireframing → prototyping → UI design**.  
+
+> *Figma helps teams move from ideas to polished prototypes without switching tools.*
+
+---
+
+### 2. **Adobe XD**
+A vector-based design and prototyping tool known for its integration with other Adobe products.  
+- Great for **interactive wireframes** and **high-fidelity mockups**.  
+- Offers easy sharing and collaboration features.  
+
+---
+
+### 3. **Balsamiq**
+A tool specifically designed for **low-fidelity wireframing**.  
+- Simple, sketch-like interface ideal for brainstorming sessions.  
+- Quick to learn and fast for early concept exploration.  
+
+---
+
+### 4. **Sketch**
+A macOS-based tool that’s powerful for **UI/UX design** and high-fidelity wireframes.  
+- Supports reusable symbols and grid systems.  
+- Best for teams within the Apple ecosystem.
+
+---
+
+###  In Summary
+| Tool | Best For | Key Strength |
+|------|-----------|---------------|
+| **Figma** | All stages (Lo-Fi to Hi-Fi) | Real-time collaboration and prototyping |
+| **Adobe XD** | High-Fidelity Wireframes | Integration with Adobe ecosystem |
+| **Balsamiq** | Low-Fidelity Wireframes | Fast and simple sketch-like designs |
+| **Sketch** | High-Fidelity Wireframes (macOS) | UI precision and reusable components |
+
+---
+**Recommendation:** Start with **Figma** — it’s free, easy to learn, and powerful enough to take you from rough sketches to polished prototypes in one tool.
